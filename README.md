@@ -216,4 +216,4 @@ The source code is released under the [MIT License](LICENSE). The dataset files 
 
 ## 👤 Author
 
-**Mahamud Hassan** — [GitHub] https://github.com/sakib916sk
+**Shanawaz Sakib** — [GitHub] https://github.com/sakib916sk
